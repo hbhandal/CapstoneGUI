@@ -1,5 +1,9 @@
 # CapstoneGUI
 
+V3.4
+- Complete visual redesign.
+- Added multiple buttons to account for additional models.
+
 V3.2
 - Added opencv processing function to add back the aspect of cropping.
 
