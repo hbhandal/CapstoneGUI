@@ -1,4 +1,5 @@
 # CapstoneGUI
+The goal of this project was to create a GUI and package it using the tkinter library to provide our sponsors with a user friendly method to test the functionality of our machine learning models used for image analysis.
 
 V3.4
 - Complete visual redesign.
